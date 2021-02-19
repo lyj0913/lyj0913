@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yijing Liang
+- 👋 Hi, I’m Yijing Liang. My friends called me Madi!
 - 👀 I’m interested in anything related to machine learning
 - 🌱 I’m currently learning C++
 - 👀 Rstudio is the IDE that I used the most
