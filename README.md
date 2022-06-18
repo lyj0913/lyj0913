@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yijing Liang. My friends called me Madi!
 - 👀 I’m interested in anything related to machine learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently working on web3 and computer vision related projects
 - 👀 Rstudio is the IDE that I used the most
-- 💞️ I’m looking to collaborate on deep learning related project
+- 💕 You are who you want to be
 - 📫 My Email address: yla507@sfu.ca
 
 <!---
